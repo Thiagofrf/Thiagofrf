@@ -2,7 +2,6 @@
 
 ## 👦🏻 Quem sou eu? 👦🏻
 Meu nome é Thiago Fontanella, desenvolvedor front-end focado em e-commerce.
-[![ThiagoFrf GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofrf&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 <br>
