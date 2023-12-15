@@ -1,9 +1,40 @@
+<p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Thiago</h1></summary>
   </ul>
 </div>
+
+<h3 align="center">Front-End Developer</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Thiagofrf&label=Profile%20views&color=0e75b6&style=flat" alt="Thiagofrf" /> </p>
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
+- 🌱 Currently restudying basic front-end concepts (JS, HTML, CSS, React) to reinforce my knowledge
+
+- 🧑‍🎓 Graduated in analysis and systems development
+
+- 💬 Talk to me about web development, MCU movies and shows, Star Wars
+
+- 📫 How to reach me **thiago.fontanella@hotmail.com**
+</td>
+
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
+<br/>
+<br/>
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -41,8 +72,7 @@
 </p>
 
 <br>
-<br>
-<br>
+
   
 <div id="user-content-toc">
   <ul align="center">
