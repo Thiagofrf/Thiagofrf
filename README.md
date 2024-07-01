@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Frontend Engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Thiagofrf&label=Profile%20views&color=0e75b6&style=flat" alt="Thiagofrf" /> </p>
 
 <table align="center">
