@@ -14,7 +14,6 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 Currently restudying basic front-end concepts (JS, HTML, CSS, React) to reinforce my knowledge
 
 - 🧑‍🎓 Graduated in analysis and systems development
 
