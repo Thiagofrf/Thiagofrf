@@ -7,7 +7,7 @@
   </ul>
 </div>
 
-<h3 align="center">Frontend Engineer</h3>
+<h3 align="center">FullStack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Thiagofrf&label=Profile%20views&color=0e75b6&style=flat" alt="Thiagofrf" /> </p>
 
 <table align="center">
@@ -16,10 +16,8 @@
   
 
 - 🧑‍🎓 Graduated in analysis and systems development
-
-- 💬 Talk to me about web development, MCU movies and shows, Star Wars
-
 - 📫 How to reach me **thiago.fontanella@hotmail.com**
+- 💻 Currently working at Samsung SDS Squad
 </td>
 
 <td width="50%" align="center">
